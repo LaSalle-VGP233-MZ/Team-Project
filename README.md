@@ -25,7 +25,11 @@ Please list what you plan to achieve for this week.
 Please list your planned work division.
 ## Milestone 1
 #### Team member responsibilities
-Please list each team member's contribution in this milestone as detailed as possible.
+Please list **each team member's** contribution in this milestone as detailed as possible.
+#### Obstacles you encountered in this milestone, and things you learned
+Please list **each team member's** obstacles and things you learned.
 ## Milestone 2
 #### Team member responsibilities
-Please list each team member's contribution in this milestone as detailed as possible.
+Please list **each team member's** contribution in this milestone as detailed as possible.
+#### Obstacles you encountered in this milestone, and things you learned
+Please list **each team member's** obstacles and things you learned.
