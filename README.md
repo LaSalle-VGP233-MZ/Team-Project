@@ -1,4 +1,4 @@
-
+## Milestone 0
 #### Team name
 
 #### Team members
@@ -22,4 +22,10 @@ Please list what you plan to achieve for this week.
 
 --------------------------  
 #### Team member responsibilities
-Please list your work division.
+Please list your planned work division.
+## Milestone 1
+#### Team member responsibilities
+Please list each team member's contribution in this milestone as detailed as possible.
+## Milestone 2
+#### Team member responsibilities
+Please list each team member's contribution in this milestone as detailed as possible.
